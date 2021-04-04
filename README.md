@@ -4,6 +4,6 @@
 
 Enter a list of options and have one randomly selected
 
-[See it in action!](https://master.dhmgtxvhqxgmx.amplifyapp.com/)
+[See it in action!](https://master.d2pgacaklrzzow.amplifyapp.com/)
 
 ![alt text](https://github.com/devjpsmith/random-choice-picker/blob/master/screenshot.png?raw=true)
